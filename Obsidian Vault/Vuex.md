@@ -1,0 +1,1 @@
+Vuex это state managment  библиотека. Что это значит?
