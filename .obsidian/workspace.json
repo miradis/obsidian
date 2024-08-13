@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Ежедневные заметки/13.08.2024.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "74da2d8848b6ea9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разработка/Vue/Vue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b5cd8e7ce06fdd0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Админка",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,13 +144,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,10 +164,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "febaf39371935c83",
+  "active": "4897e70c69ba4503",
   "lastOpenFiles": [
-    "Разработка/Trustme/TrustMe.kz.md",
+    "Разработка/Trustme/Задачи/Платежи IOKA в админке.md",
+    "Разработка/Trustme/Задачи/Фильтрация запросов для Узбекистана и Казахстана в админке.md",
+    "Разработка/Trustme/Задачи/Задания на 22 мая.md",
+    "Разработка/Trustme/Задачи/Задание от Игоря.md",
+    "Разработка/Trustme/Задачи/Задание на 2 июня.md",
+    "Разработка/Grafana/Grafana.md",
+    "Разработка/Vue/Экземпляр Vue.md",
     "Ежедневные заметки/13.08.2024.md",
+    "Разработка/Vue/Vue.md",
+    "Разработка/Vue/DOM.md",
+    "Разработка/Vue/Синтаксис шаблонов.md",
+    "Компонент для выборки банков их БИКОВ.md",
+    "системе компонентов.md",
+    "Разработка/Trustme/TrustMe.kz.md",
+    "Разработка/Trustme/Презентация Trust Contract.md",
+    "README.md",
     "Untitled.md",
     "Ежедневные заметки",
     "Шаблоны/Разработка.md",
@@ -161,26 +193,12 @@
     "Статистика/Кол-во компаний ежедневно тариф exhausted.md",
     "Статистика/Кол-во компаний ежедневно тариф приостановлен.md",
     "Статистика/Активность компаний в системе по количеству подписанных договоров ежедневно общее по всем компаниям.md",
-    "Статистика/Активность в системе в процентах ( сколько компаний всего в системе и сколько компаний были активны сегодня).md",
-    "Статистика/2024-04-15.md",
-    "README.md",
-    "Разработка/Trustme/Проблемы/Не работает фильтр в Архиве..md",
-    "Obsidian Vault/Создание шаблонов.md",
     "Разработка/Trustme/Проблемы",
-    "Конструктор.md",
-    "Разработка/Trustme/Запросы/Проблема в базе данных.md",
-    "Разработка/Trustme/Презентация Trust Contract.md",
-    "Разработка/git/Как правильно решать конфликты в гите.md",
-    "Obsidian Vault/Компонент для выборки банков их БИКОВ.md",
-    "Разработка/git/Github push.md",
     "Разработка/Trustme",
-    "Obsidian Vault/Проекты.md",
-    "Obsidian Vault/Клиентское приложение для расчета KPI преподавателя.md",
     "Разработка",
     "Разработка/git",
     "Разработка/Grafana",
     "Untitled 1",
-    "Obsidian Vault/Конструктор.md",
     "Разработка/Trustme/Запросы",
     "Разработка/Trustme/Задачи",
     "Разработка/Vue"
