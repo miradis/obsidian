@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "a6b5f8cd1d82ec78",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c69112371abd3a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "febaf39371935c83",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8ea648bf3336e5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ca221b79f4e100d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5021a57ccedd160",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4897e70c69ba4503",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8a5dda157b6267f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5691713406d2acbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "78ece0236a62e272",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "964592993461adb1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb8295625db3914c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "290fea4aa6ec31ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb8f4f4057ccd7dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "febaf39371935c83",
+  "lastOpenFiles": [
+    "Разработка/Trustme/TrustMe.kz.md",
+    "Ежедневные заметки/13.08.2024.md",
+    "Untitled.md",
+    "Ежедневные заметки",
+    "Шаблоны/Разработка.md",
+    "Статистика/Статистика.md",
+    "Статистика/Кол-во подписываемых договоров среднее по дням по компаниям.md",
+    "Статистика/Кол-во подписываемых договоров среднее по дням.md",
+    "Статистика/Кол-во новых компаний на онбординге по дням.md",
+    "Статистика/Кол-во новых компаний в системе (за период, в среднем) дней.md",
+    "Статистика/Кол-во компаний ежедневно тариф exhausted.md",
+    "Статистика/Кол-во компаний ежедневно тариф приостановлен.md",
+    "Статистика/Активность компаний в системе по количеству подписанных договоров ежедневно общее по всем компаниям.md",
+    "Статистика/Активность в системе в процентах ( сколько компаний всего в системе и сколько компаний были активны сегодня).md",
+    "Статистика/2024-04-15.md",
+    "README.md",
+    "Разработка/Trustme/Проблемы/Не работает фильтр в Архиве..md",
+    "Obsidian Vault/Создание шаблонов.md",
+    "Разработка/Trustme/Проблемы",
+    "Конструктор.md",
+    "Разработка/Trustme/Запросы/Проблема в базе данных.md",
+    "Разработка/Trustme/Презентация Trust Contract.md",
+    "Разработка/git/Как правильно решать конфликты в гите.md",
+    "Obsidian Vault/Компонент для выборки банков их БИКОВ.md",
+    "Разработка/git/Github push.md",
+    "Разработка/Trustme",
+    "Obsidian Vault/Проекты.md",
+    "Obsidian Vault/Клиентское приложение для расчета KPI преподавателя.md",
+    "Разработка",
+    "Разработка/git",
+    "Разработка/Grafana",
+    "Untitled 1",
+    "Obsidian Vault/Конструктор.md",
+    "Разработка/Trustme/Запросы",
+    "Разработка/Trustme/Задачи",
+    "Разработка/Vue"
+  ]
+}
