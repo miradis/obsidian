@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ежедневные заметки/13.08.2024.md",
+                "file": "Ежедневные заметки/15.08.2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d8c3d5ec181001c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue Router 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +35,36 @@
             "id": "74da2d8848b6ea9a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ежедневные заметки/15.08.2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "093103b19bbaec22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ежедневные заметки/15.08.2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6adc0e9025681eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Настройка для компании.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -102,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vue Router 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vue Router 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vue Router 3.md"
+              }
             }
           }
         ],
@@ -156,16 +200,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "74da2d8848b6ea9a",
+  "active": "9d8c3d5ec181001c",
   "lastOpenFiles": [
+    "Ежедневные заметки/15.08.2024.md",
+    "Vue Router 3.md",
     "Ежедневные заметки/14.08.2024.md",
-    "Ежедневные заметки/13.08.2024.md",
-    "Разработка/Vue/Vue.md",
+    "Разработка/Trustme/TrustMe.kz.md",
+    "Настройка для компании.md",
     "Разработка/Trustme/Задачи/Платежи IOKA в админке.md",
     "Разработка/Trustme/Задачи/Фильтрация запросов для Узбекистана и Казахстана в админке.md",
+    "Ежедневные заметки/13.08.2024.md",
+    "Ресурсы/Pasted image 20240815101218.png",
+    "Enbek Admin.md",
+    "Разработка/Vue/Vue.md",
     "Разработка/Trustme/Задачи/Задания на 22 мая.md",
     "Разработка/Trustme/Задачи/Задание от Игоря.md",
     "Разработка/Trustme/Задачи/Задание на 2 июня.md",
@@ -175,7 +226,6 @@
     "Разработка/Vue/Синтаксис шаблонов.md",
     "Компонент для выборки банков их БИКОВ.md",
     "системе компонентов.md",
-    "Разработка/Trustme/TrustMe.kz.md",
     "Разработка/Trustme/Презентация Trust Contract.md",
     "README.md",
     "Untitled.md",
@@ -184,10 +234,6 @@
     "Статистика/Статистика.md",
     "Статистика/Кол-во подписываемых договоров среднее по дням по компаниям.md",
     "Статистика/Кол-во подписываемых договоров среднее по дням.md",
-    "Статистика/Кол-во новых компаний на онбординге по дням.md",
-    "Статистика/Кол-во новых компаний в системе (за период, в среднем) дней.md",
-    "Статистика/Кол-во компаний ежедневно тариф exhausted.md",
-    "Статистика/Кол-во компаний ежедневно тариф приостановлен.md",
     "Разработка/Trustme/Проблемы",
     "Разработка/Trustme",
     "Разработка",
